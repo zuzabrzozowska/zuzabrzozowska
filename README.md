@@ -1,6 +1,6 @@
 ### Hi, I'm Zuzanna 👋🏻  
 
-<img align="right" height="300" src="https://www.zu-zanna.com/static/media/me.3a027435.png">
+<img align="right" height="300" src="https://i.ibb.co/C5JfJvV/Untitled-design.jpg">
 
 
 I’m a full stack developer, with a focus on frontend, currently based in Stockholm, Sweden.
