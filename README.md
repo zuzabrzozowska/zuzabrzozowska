@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi, I'm Zuzanna 👋🏻  
 
-<!--
-**zuzabrzozowska/zuzabrzozowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" height="300" src="https://www.zu-zanna.com/static/media/me.3a027435.png">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a full stack developer, with a focus on frontend, currently based in Stockholm, Sweden.
+
+Some facts about me!
+I come from Poland (town called Płock<sup>1</sup>, close to Warsaw), I've lived in Gdańsk, Kraków, Växjö and Stockholm.
+
+At the moment, I'm a Full Stack Developer at WeTal. 
+My interests include film studies, art history and learning Italian.
+
+### My stack:
+*JavaScript, React.js, React-Native, Redux, Node.js, Express, MongoDB*
+
+
+### My current to-do list:
+- [x] learn React Native
+- [x] build and distribute my first app in React Native
+- [ ] build and distribute my second app in React Native
+- [ ] learn the basics of TypeScript
+- [ ] decide whether I prefer JavaScript or TypeScript
+
+---
+### 👩‍🎨 Find me around the web:
+
+- Sharing my everyday life as a developer on [zuzanna.dev](https://www.instagram.com/zuzanna.dev). ✨
+- Bragging about how cool I am on my [personal website](https://www.zu-zanna.com). 💛
+- Sharing my thoughts and updates on [Linkedin](https://linkedin.com/in/zuzanna-brzozowska). 💼
+
+
+---
+- ⚡ Fun fact: ask me about what great movies I have watched recently and I will talk for days.
+
+
+
+<sup>1</sup> <sub>pronounced [pwɔt͡sk]</sub>
