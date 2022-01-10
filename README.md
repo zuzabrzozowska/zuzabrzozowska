@@ -3,12 +3,12 @@
 <img align="right" height="300" src="https://i.ibb.co/C5JfJvV/Untitled-design.jpg">
 
 
-I’m a full stack developer, with a focus on frontend, currently based in Stockholm, Sweden.
+I’m a frontend developer, currently based in Stockholm, Sweden.
 
 Some facts about me!
 I come from Poland (town called Płock<sup>1</sup>, close to Warsaw), I've lived in Gdańsk, Kraków, Växjö and Stockholm.
 
-At the moment, I'm a Full Stack Developer at WeTal. 
+At the moment, I'm a Frontend Developer at Oneflow. 
 My interests include film studies, art history and learning Italian.
 
 ### My stack:
