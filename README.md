@@ -1,8 +1,5 @@
 ### Hi, I'm Zuzanna 👋🏻  
 
-<img align="right" height="300" src="https://i.ibb.co/C5JfJvV/Untitled-design.jpg">
-
-
 I’m a frontend developer, currently based in Stockholm, Sweden.
 
 Some facts about me!
@@ -14,13 +11,6 @@ My interests include film studies, art history and learning Italian.
 ### My stack:
 *JavaScript, React.js, React-Native, Redux, Node.js, Express, MongoDB*
 
-
-### My current to-do list:
-- [x] learn React Native
-- [x] build and distribute my first app in React Native
-- [ ] build and distribute my second app in React Native
-- [ ] learn the basics of TypeScript
-- [ ] decide whether I prefer JavaScript or TypeScript
 
 ---
 ### 👩‍🎨 Find me around the web:
