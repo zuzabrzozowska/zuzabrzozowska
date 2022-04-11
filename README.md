@@ -7,9 +7,6 @@ I come from Poland (town called Płock<sup>1</sup>, close to Warsaw), I've lived
 
 At the moment, I'm a Frontend Developer at Oneflow.
 
----
-- ⚡ Fun fact: ask me about what great movies I have watched recently and I will talk for days.
-
 
 
 <sup>1</sup> <sub>pronounced [pwɔt͡sk]</sub>
